@@ -5,6 +5,8 @@ This repo is a starting point for programming the AVR MCU using the wonderful ni
 It shows that with just a little bit of setting up we can use nim to write programs for these tiny 8-bit
 MCUs with very little additional cost.
 
+Note: the following files were tested with nim 1.6.
+
 # config.nims
 We start by configuring the nim compiler, telling which cross-compiler to use and with what settings,
 as well as settings for the nim compiler itself.
